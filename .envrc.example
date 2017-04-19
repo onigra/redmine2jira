@@ -1,0 +1,11 @@
+# Redmine
+export REDMINE_URL=
+export REDMINE_API_KEY=
+export PROJECT_ID=
+
+# JIRA
+export JIRA_URL=
+export JIRA_USERNAME=
+export JIRA_PASSWORD=
+export JIRA_PROJECT_ID=
+export JIRA_ISSUE_TYPE_ID=
